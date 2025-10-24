@@ -1,0 +1,14 @@
+C:\Users\Acer\Documents\Coding shenanigans\C#\Hotelo\Hotelo\bin\Debug\Hotelo.exe.config
+C:\Users\Acer\Documents\Coding shenanigans\C#\Hotelo\Hotelo\bin\Debug\Hotelo.exe
+C:\Users\Acer\Documents\Coding shenanigans\C#\Hotelo\Hotelo\bin\Debug\Hotelo.pdb
+C:\Users\Acer\Documents\Coding shenanigans\C#\Hotelo\Hotelo\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Documents\Coding shenanigans\C#\Hotelo\Hotelo\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Documents\Coding shenanigans\C#\Hotelo\Hotelo\obj\Debug\Hotelo.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Coding shenanigans\C#\Hotelo\Hotelo\obj\Debug\Hotelo.Form1.resources
+C:\Users\Acer\Documents\Coding shenanigans\C#\Hotelo\Hotelo\obj\Debug\Hotelo.Properties.Resources.resources
+C:\Users\Acer\Documents\Coding shenanigans\C#\Hotelo\Hotelo\obj\Debug\Hotelo.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\Coding shenanigans\C#\Hotelo\Hotelo\obj\Debug\Hotelo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Coding shenanigans\C#\Hotelo\Hotelo\obj\Debug\Hotelo.csproj.Up2Date
+C:\Users\Acer\Documents\Coding shenanigans\C#\Hotelo\Hotelo\obj\Debug\Hotelo.exe
+C:\Users\Acer\Documents\Coding shenanigans\C#\Hotelo\Hotelo\obj\Debug\Hotelo.pdb
+C:\Users\Acer\Documents\Coding shenanigans\C#\Hotelo\Hotelo\obj\Debug\Hotelo.exe.config
